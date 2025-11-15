@@ -452,8 +452,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@Omthube23](https://github.com/Omthube23)
 
 ## 🙏 Acknowledgments
 
@@ -465,8 +464,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 If you have any questions or issues:
-- Open an issue on GitHub
-- Check existing issues and discussions
 - Review the troubleshooting section
 
 ---
